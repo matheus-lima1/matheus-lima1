@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hey, welcome! I'm Matheus Lima ??</h1>
+<h3 align="center">Learning to fly like a rocket!</h3>
 
-<!--
-**matheus-lima1/matheus-lima1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&labelColor=6633cc&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omatheuslima/)](https://www.linkedin.com/in/omatheuslima/)
+[![Instagram Badge](https://img.shields.io/badge/-@theusz_rlima-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/theusz_rlima)](https://instagram.com/theusz_rlima) 
 
-Here are some ideas to get you started:
+<p>Passionate about technology and always willing to learn new things!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ?? I�m currently working at [byron.solutions](https://byronsolutions.com/)
+- ?? How to reach me: **fgmorais18@gmail.com**
+- ? Fun fact: Singer and instrumentalist :P
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-lima1&show_icons=true" alt="matheus-lima1"/> 
+</p>
