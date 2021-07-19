@@ -13,9 +13,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Sobre mim :)**
 
-- Atualmente sou Diretor de Projetos em __[byron.solutions](https://byronsolutions.com/)__.
-- Constante aprendiz em desenolvimento com Laravel e MySQL.
-- Buscando aprender um pouco mais sobre Front-End com JavaScript!
+- Sou atual Diretor de Projetos em __[byron.solutions](https://byronsolutions.com/)__.
+- Constante aprendiz em desenvolvimento com Laravel e MySQL.
+- Buscando aprender um pouco mais sobre Front-End!
 - Gosto muito de conversar sobre qualquer assunto, duvida? Entre em contato hehe.
 - Como me contatar: __lima@byronsolutions.com__
 
